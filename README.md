@@ -1,5 +1,5 @@
 # tindog
-Tinder clone website for dogs.
+Tinder clone responsive website for dogs.
 # Tools & Languages
 <ul>
 <li>HTML5</li>
